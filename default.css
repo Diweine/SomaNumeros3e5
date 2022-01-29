@@ -1,0 +1,45 @@
+h2 {
+  font-size: 15pt;
+}
+
+#content{
+  margin: 30px;
+}
+
+#num {
+  height: 30px;
+  margin-right: 10px;
+  width: 200px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 12pt;
+}
+
+#btenviar {
+  height: 36px;
+  font-size: 12pt;
+  text-align: center;
+  width: 90px;
+}
+
+#result {
+  font-size: 14pt;
+  margin-top: 20px;
+}
+
+.azul {
+  color: #054f77;
+}
+
+.vermelho {
+  color: #dd2609;
+}
+
+.negrito {
+  font-weight: bold;
+}
+
+#elementos_array{
+  font-size: 14pt;
+  margin-top: 20px; 
+}
