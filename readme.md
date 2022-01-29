@@ -17,19 +17,15 @@ Para executar o teste da função criada basta:
 
 5. Informe um número inteiro no campo indicado
 
-<br/>
 
 ## Tela para teste
 
 <img src="./imagens/print_tela.png" alt="Print da tela"/>
-<br/>
 <br/>
 
 
 ## Tela usando o número 11 como teste
 
 <img src="./imagens/print_tela_teste.png" alt="Print da tela"/>
-<br/>
-<br/>
 
 
